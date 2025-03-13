@@ -12,7 +12,7 @@ See the full dashboard here -[App Power BI link](https://app.powerbi.com/groups/
 
 #Chocolate Sales Power BI Dashboard
 
-See full dashboard here - [App Power BI link] https://app.powerbi.com/groups/me/reports/41f3d952-6354-44a5-a05d-172eb1a176b3?ctid=62785f08-d965-4516-af59-cc95f71de47e&pbi_source=linkShare&bookmarkGuid=75e617d0-5e16-44a3-8df7-609a08676cd9
+See full dashboard here - [App Power BI link](https://app.powerbi.com/groups/me/reports/41f3d952-6354-44a5-a05d-172eb1a176b3?ctid=62785f08-d965-4516-af59-cc95f71de47e&pbi_source=linkShare&bookmarkGuid=75e617d0-5e16-44a3-8df7-609a08676cd9)
 
 ![image](https://github.com/user-attachments/assets/0c5e040a-3333-4222-91b2-6b2fb8b353a6)
 
@@ -20,7 +20,7 @@ See full dashboard here - [App Power BI link] https://app.powerbi.com/groups/me/
 
 #Credit Card financial Dashboard
 
-See full dashboard here - [App Power BI link]https://app.powerbi.com/groups/me/reports/7ad71fb1-e435-4e24-af3f-b434dc89f353/9217443cc2700c9336ec?experience=power-bi
+See full dashboard here - [App Power BI link](https://app.powerbi.com/groups/me/reports/7ad71fb1-e435-4e24-af3f-b434dc89f353/9217443cc2700c9336ec?experience=power-bi)
 
 ![image](https://github.com/user-attachments/assets/d941a5ae-6cc5-4f45-9c71-3cdedb4717c7)
 
@@ -28,7 +28,7 @@ See full dashboard here - [App Power BI link]https://app.powerbi.com/groups/me/r
 
 #BlinkIT Grocery Dashboard
 
-See full dashboard here  -[App Power BI link] https://app.powerbi.com/groups/me/reports/8ef0e2f5-469a-48d4-8e4a-0b2d39c5b527/23c97f10ab0b6c2360a2?experience=power-bi
+See full dashboard here  -[App Power BI link](https://app.powerbi.com/groups/me/reports/8ef0e2f5-469a-48d4-8e4a-0b2d39c5b527/23c97f10ab0b6c2360a2?experience=power-bi)
 
 ![image](https://github.com/user-attachments/assets/a018d147-7756-48a7-bebe-40ed6165de33)
 
