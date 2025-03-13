@@ -18,4 +18,24 @@ See full dashboard here - https://app.powerbi.com/groups/me/reports/41f3d952-635
 
 
 
+#Credit Card financial Dashboard
+
+See full dashboard here - https://app.powerbi.com/groups/me/reports/7ad71fb1-e435-4e24-af3f-b434dc89f353/9217443cc2700c9336ec?experience=power-bi
+
+![image](https://github.com/user-attachments/assets/d941a5ae-6cc5-4f45-9c71-3cdedb4717c7)
+
+
+
+#BlinkIT Grocery Dashboard
+
+See full dashboard here  - https://app.powerbi.com/groups/me/reports/8ef0e2f5-469a-48d4-8e4a-0b2d39c5b527/23c97f10ab0b6c2360a2?experience=power-bi
+
+![image](https://github.com/user-attachments/assets/a018d147-7756-48a7-bebe-40ed6165de33)
+
+
+
+
+
+
+
 
